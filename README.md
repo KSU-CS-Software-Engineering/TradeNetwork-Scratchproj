@@ -4,4 +4,4 @@ To run simply go in to the project directory and compress all of the files to a 
 
 Then rename the resulting zip file to have the sb3 extension instead of your compressors default extension.
 
-This file can then be upoaded onto the scratch 3 site.
+This file can then be uploaded onto the scratch 3 site.
