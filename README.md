@@ -1,3 +1,12 @@
+
+Source code taken from Scratch under the Scratch Source Code License,
+which can be found at https://en.scratch-wiki.info/wiki/Scratch_Source_Code_License
+
+Trade Network Simulator developed by Lauren Dumler, Lynette Hardinger, Zach Martin, and Jacob Victor
+Kansas State University - CIS 642/643 - 2018/2019
+We release this code under the same license above.
+
+
 # TradeNetwork-Scratchproj
 
 To run simply go in to the project directory and compress all of the files to a single zip (it must be within the file, not the file itself)
