@@ -17,3 +17,4 @@ This file can then be uploaded onto the scratch 3 site.
 
 
 \*Tested to work with the default windows compression tool
+\*This project is being developed in conjunction with two other repositories
