@@ -15,6 +15,10 @@ Then rename the resulting zip file to have the sb3 extension instead of your com
 
 This file can then be uploaded onto the scratch 3 site.
 
+To push it is these steps in reverse.
+
+Extract the contents of the downloaded sb3 file to the Trade Network file within the repository, allowing the new files to overwrite the old ones. 
+
 
 \*Tested to work with the default windows compression tool
 \*This project is being developed in conjunction with two other repositories
